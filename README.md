@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**willywdev/willywdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑🏻‍💻 Willy's Web Development Portfolio
 
-Here are some ideas to get you started:
+Welcome to my web development portfolio! I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. This repository showcases my projects, skills, and journey as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+I have always been fascinated by technology and its ability to connect people and solve problems. Web development has become my true passion as it allows me to combine my creative thinking with technical skills to build innovative and user-friendly web applications.
+
+
+## 📃 License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use the code and modify it to suit your needs. Attribution is appreciated but not required.
+## 🧠 Skills
+
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,git,electron,figma,ps,vite )
+## ✌🏻 Acknowledgements
+
+ - [Skill Icons](https://github.com/tandpfun/skill-icons)
+
+
