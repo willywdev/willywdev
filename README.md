@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />💻 Willy's Web Development Portfolio
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />💻 Willy's Web Development
 Welcome to my web development portfolio! I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. This repository showcases my projects, skills, and journey as a web developer.
 
 
