@@ -11,7 +11,7 @@ I have always been fascinated by technology and its ability to connect people an
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use the code and modify it to suit your needs. Attribution is appreciated but not required.
 ## 🧠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,nodejs,git,vite,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,figma,ps)
 ## ✌🏻 Acknowledgements
 
  - [Skill Icons](https://github.com/tandpfun/skill-icons)
