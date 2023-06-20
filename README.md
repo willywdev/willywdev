@@ -14,6 +14,3 @@ My name is **Willy**, i'm currently in the 🐟 neueFische Bootcamp.
 
 ## 👀 What I'm looking forward to
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50px"/>
-
-                          
-          
