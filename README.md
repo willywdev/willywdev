@@ -1,9 +1,9 @@
 # 👋🏼 Welcome to my new Repo
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 \
-My name is Willy, i'm currently in the 🐟 neueFische Bootcamp. 
+My name is **Willy**, i'm currently in the 🐟 neueFische Bootcamp. 
 \
-I'm interested in all kinds of Tech, spending time with my friends or playing catch with my cats. 
+> I'm interested in all kinds of Tech, spending time with my friends or playing catch with my cats. 
 
 ![Alt Text](/giphy-downsized-large.gif)
 
