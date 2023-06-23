@@ -6,9 +6,6 @@ Welcome to my web development portfolio! I'm Willy, a passionate web developer w
 ## 🚀 About Me
 I have always been fascinated by technology and its ability to connect people and solve problems. Web development has become my true passion as it allows me to combine my creative thinking with technical skills to build innovative and user-friendly web applications.
 
-
-## 📃 License
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use the code and modify it to suit your needs. Attribution is appreciated but not required.
 ## 🧠 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,figma,ps)
