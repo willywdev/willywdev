@@ -1,7 +1,5 @@
 <img src="header.gif">
-<p style="font-size:20px">I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. <br> This repository showcases my projects, skills, and journey as a web developer.
-</p>
-<br>
+I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. <br> This repository showcases my projects, skills, and journey as a web developer.
 <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=willywdev&style=for-the-badge&color=151633"/>
@@ -14,7 +12,7 @@
 
 ## 🚀 About Me
 
-I have always been fascinated by technology and its ability to connect people and solve problems. Web development has become my true passion as it allows me to combine my creative thinking with technical skills to build innovative and user-friendly web applications.
+I have always been fascinated by technology and its ability to connect people and solve problems. <br> Web development has become my true passion as it allows me to combine my creative thinking with technical skills to build innovative and user-friendly web applications.
 
 ## 👨‍💻 What I use
 
