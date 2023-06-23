@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src="header.gif">
 
 Welcome to my web development portfolio! I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. This repository showcases my projects, skills, and journey as a web developer.
 
@@ -21,4 +21,6 @@ I have always been fascinated by technology and its ability to connect people an
 ## ✌🏻 Acknowledgements
 
 [ Skill Icons by Thijs](https://github.com/tandpfun/skill-icons)<br>
-[Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)
+[Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)<br>
+[Profile Views Badge by Komarev](https://github.com/antonkomarev/github-profile-views-counter)<br>
+[Header Image by khalby786](https://github.com/khalby786/REHeader)
