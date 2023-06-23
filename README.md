@@ -3,7 +3,7 @@
 Welcome to my web development portfolio! I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. This repository showcases my projects, skills, and journey as a web developer.
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=willywdev&style=for-the-badge&color=ff69b4"/>
+<img src="https://komarev.com/ghpvc/?username=willywdev&style=for-the-badge&color=151633"/>
 </p>
 
 ## 🧠 Skills
