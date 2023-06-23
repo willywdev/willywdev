@@ -1,3 +1,5 @@
+<img src="header.png">
+
 Welcome to my web development portfolio! I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. This repository showcases my projects, skills, and journey as a web developer.
 
 <p align="center">
