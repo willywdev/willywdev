@@ -23,4 +23,3 @@ I have always been fascinated by technology and its ability to connect people an
 [ Skill Icons by Thijs](https://github.com/tandpfun/skill-icons)<br>
 [Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)<br>
 [Profile Views Badge by Komarev](https://github.com/antonkomarev/github-profile-views-counter)<br>
-[Header Image by khalby786](https://github.com/khalby786/REHeader)
