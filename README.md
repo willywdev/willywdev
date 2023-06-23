@@ -1,7 +1,8 @@
 <img src="header.gif">
-<font size="4">I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. <br> This repository showcases my projects, skills, and journey as a web developer.
-</font>
-
+<p style="font-size:20px">I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. <br> This repository showcases my projects, skills, and journey as a web developer.
+</p>
+<br>
+<br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=willywdev&style=for-the-badge&color=151633"/>
 </p>
