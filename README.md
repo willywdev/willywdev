@@ -8,7 +8,7 @@ Welcome to my web development portfolio! I'm Willy, a passionate web developer w
 
 ## 🧠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,figma,ps)<br>
 ![My Skills](https://skillicons.dev/icons?i=cs,git,github,vscode,md,powershell,)
 
 ## 🚀 About Me
