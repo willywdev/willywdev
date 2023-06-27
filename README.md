@@ -2,9 +2,12 @@
 I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. <br> This repository showcases my projects, skills, and journey as a web developer.
 <br>
 <br>
-<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=willywdev&style=for-the-badge&color=151633"/>
-</p>
+
+## ✍🏻 Check out my blog
+
+<a href="blog.willydev.de"><img src="hashnode-logo.svg" width="200px"></a>
 
 ## 🧠 Skills
 
