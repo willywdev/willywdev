@@ -1,5 +1,5 @@
 <img src="header.gif">
-I'm Willy, a passionate web developer who is constantly learning and exploring the world of web development. <br> This repository showcases my projects, skills, and journey as a web developer.
+I'm Willy, a passionate web developer who is constantly learning and exploring the world of programming and tech. <br> This repository showcases my projects, skills, and journey as a web developer.
 <br>
 <br>
 <p align="center">
