@@ -7,7 +7,7 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 
 ## ✍🏻 Check out my blog
 
-<a href="blog.willydev.de"><img src="hashnode-logo.svg" width="200px"></a>
+<a href="https://blog.willydev.de"><img src="hashnode-logo.svg" width="200px"></a>
 
 ## 🧠 Skills
 
