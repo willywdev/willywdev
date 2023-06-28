@@ -7,7 +7,10 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 
 ## ✍🏻 Check out my blog
 
-<a href="https://blog.willydev.de"><img src="hashnode-logo.svg" width="200px"></a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./hashnode-logo.png">
+  <img alt="Hashnode Logo" src="./hashnode-logo-light.png">
+</picture>
 
 ## 🧠 Skills
 
