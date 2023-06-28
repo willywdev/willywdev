@@ -7,10 +7,8 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 
 ## ✍🏻 Check out my blog
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./hashnode-logo.png">
-  <img alt="Hashnode Logo" src="./hashnode-logo-light.png">
-</picture>
+[![Hashnode Light Logo](hashnode-logo-light.svg#gh-light-mode-only)](https://blog.willydev.de)
+[![Hashnode Dark Logo](hashnode-logo.svg#gh-dark-mode-only)](https://blog.willydev.de)
 
 ## 🧠 Skills
 
