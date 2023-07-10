@@ -11,7 +11,7 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 
 ## 🧠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,figma,ps)<br>
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,electron,figma,ps)<br>
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,md,powershell,bash)
 
 ## 🚀 About Me
