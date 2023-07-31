@@ -12,7 +12,7 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 ## 🧠 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,electron,ps)<br>
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,md,powershell,bash,python)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,md,powershell,bash,python,nodejs)
 
 ## 🚀 About Me
 
