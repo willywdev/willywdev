@@ -8,7 +8,7 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 
 ## 🧠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,electron,python,nodejs,vite,webpack)<br>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,electron,python,nodejs,firebase,vite,webpack)<br>
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,md,powershell,bash,ps,bootstrap,tailwind)
 
 ## 🚀 About Me
