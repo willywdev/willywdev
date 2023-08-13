@@ -1,5 +1,5 @@
 <img src="header2.gif">
-I'm Willy, a passionate web developer who is constantly learning and exploring the world of programming and tech. <br> This Github showcases my projects, skills, and journey as a web developer.
+I'm Willy, a passionate software engineer & web developer who is constantly learning and exploring the world of programming and tech. <br> This Github showcases my projects, skills, and journey as a web developer.
 
 
 ## ✍🏻 Check out my blog
