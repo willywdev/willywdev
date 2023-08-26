@@ -19,6 +19,6 @@ I have always been fascinated by technology and its ability to connect people an
 
 ## ✌🏻 Acknowledgements
 
-[ Skill Icons by Thijs](https://github.com/tandpfun/skill-icons)<br>
+[ Skill Icons by tandpfun](https://github.com/tandpfun/skill-icons)<br>
 [Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)<br>
 [Profile Views Badge by Komarev](https://github.com/antonkomarev/github-profile-views-counter)<br>
