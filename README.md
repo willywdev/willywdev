@@ -17,6 +17,6 @@ I'm Willy, a passionate web developer who is constantly learning and exploring t
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,python,nodejs,firebase,vite)<br>
 ![My Skills](https://skillicons.dev/icons?i=webpack,git,github,vscode,md,powershell,bash,ps,bootstrap,tailwind)
 
-## ✌🏻 Acknowledgements
+------
 
-[Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywdev&layout=compact)
