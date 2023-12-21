@@ -2,8 +2,6 @@
 <img src="gh_header.png">
 I'm Willy, a passionate developer who is constantly learning and exploring the world of programming and tech. <br> This Github showcases my projects, skills, and journey as a developer.
 <br>
-<br>
-
 
 | Languages / Markup  |      Frontend      |  Backend | Misc. |
 |:----------:|:-------------:|:------:|:-------:|
