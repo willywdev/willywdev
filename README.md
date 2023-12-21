@@ -10,4 +10,7 @@ I'm Willy, a passionate developer who is constantly learning and exploring the w
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywdev&layout=compact)
+<p align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywdev&layout=compact) 
+</p>
