@@ -5,12 +5,13 @@ I'm Willy, a passionate developer who is constantly learning and exploring the w
 
 | Languages / Markup  |      Frontend      |  Backend | Misc. |
 |:----------:|:-------------:|:------:|:-------:|
-| ![My Skills](https://skillicons.dev/icons?i=js,typescript,rust) |  ![My Skills](https://skillicons.dev/icons?i=astro,react,vue,svelte) | ![My Skills](https://skillicons.dev/icons?i=nodejs,deno,docker,express,graphql,mongodb) | ![My Skills](https://skillicons.dev/icons?i=git,github,electron,tauri,jest) |
-|![My Skills](https://skillicons.dev/icons?i=html,css,markdown,lua)|  ![My Skills](https://skillicons.dev/icons?i=nextjs,nuxt,bootstrap,tailwind,styledcomponents) | ![My Skills](https://skillicons.dev/icons?i=postgres,powershell,supabase,bash,vite,vercel) | ![My Skills](https://skillicons.dev/icons?i=linux,neovim,vscode,ps,ai) |
+| ![My Skills](https://skillicons.dev/icons?i=js,typescript,rust) |  ![My Skills](https://skillicons.dev/icons?i=astro,react,vue) ![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,deno) | ![My Skills](https://skillicons.dev/icons?i=docker,express,graphql) ![My Skills](https://skillicons.dev/icons?i=mongodb,git,github) | ![My Skills](https://skillicons.dev/icons?i=electron,tauri,jest) |
+|![My Skills](https://skillicons.dev/icons?i=html,css,markdown) |  ![My Skills](https://skillicons.dev/icons?i=lua,nextjs,nuxt) ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents) | ![My Skills](https://skillicons.dev/icons?i=postgres,powershell,supabase) ![My Skills](https://skillicons.dev/icons?i=bash,vite,vercel) | ![My Skills](https://skillicons.dev/icons?i=linux,neovim,vscode) ![My Skills](https://skillicons.dev/icons?i=ps,ai) |
+
 
 </p>
 
 <p align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywdev&layout=compact&theme=dracula&hide_border=true) ![willywdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywdev&show_icons=true&theme=dracula&hide=contribs&hide_border=true&rank_icon=github)
+![willywdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywdev&show_icons=true&theme=dracula&hide=contribs,stars&hide_border=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywdev&layout=compact&theme=dracula&hide_border=true) 
 </p>
