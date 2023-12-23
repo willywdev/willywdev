@@ -5,8 +5,8 @@ I'm Willy, a passionate developer who is constantly learning and exploring the w
 
 | Languages / Markup  |      Frontend      |  Backend | Misc. |
 |:----------:|:-------------:|:------:|:-------:|
-| ![My Skills](https://skillicons.dev/icons?i=js,typescript,rust) |  ![My Skills](https://skillicons.dev/icons?i=astro,react,vue) ![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,deno) | ![My Skills](https://skillicons.dev/icons?i=docker,express,graphql) ![My Skills](https://skillicons.dev/icons?i=mongodb,git,github) | ![My Skills](https://skillicons.dev/icons?i=electron,tauri,jest) |
-|![My Skills](https://skillicons.dev/icons?i=html,css,markdown) |  ![My Skills](https://skillicons.dev/icons?i=lua,nextjs,nuxt) ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents) | ![My Skills](https://skillicons.dev/icons?i=postgres,powershell,supabase) ![My Skills](https://skillicons.dev/icons?i=bash,vite,vercel) | ![My Skills](https://skillicons.dev/icons?i=linux,neovim,vscode) ![My Skills](https://skillicons.dev/icons?i=ps,ai) |
+| ![My Skills](https://skillicons.dev/icons?i=js,typescript,python) |  ![My Skills](https://skillicons.dev/icons?i=astro,react,vue) ![My Skills](https://skillicons.dev/icons?i=svelte,nodejs,deno) | ![My Skills](https://skillicons.dev/icons?i=docker,express,graphql) ![My Skills](https://skillicons.dev/icons?i=mongodb,git,github) | ![My Skills](https://skillicons.dev/icons?i=electron,tauri,jest) |
+|![My Skills](https://skillicons.dev/icons?i=html,css,lua) |  ![My Skills](https://skillicons.dev/icons?i=nextjs,nuxt) ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents) | ![My Skills](https://skillicons.dev/icons?i=postgres,powershell,supabase) ![My Skills](https://skillicons.dev/icons?i=bash,vite,vercel) | ![My Skills](https://skillicons.dev/icons?i=linux,neovim,vscode) ![My Skills](https://skillicons.dev/icons?i=ps,ai,markdown) |
 
 
 </p>
