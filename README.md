@@ -10,8 +10,3 @@ I'm Willy, a passionate developer who is constantly learning and exploring the w
 
 
 </p>
-
-<p align="center">
-  
-![willywdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywdev&show_icons=true&theme=dracula&hide=contribs,stars&hide_border=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywdev&layout=compact&theme=dracula&hide_border=true) 
-</p>
